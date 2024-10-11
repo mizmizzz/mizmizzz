@@ -49,8 +49,7 @@
 
 <div>
   <p align='center'>
-    <a href="mailto:tkdgnsdldkdlel@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-    <a href="https://blog.naver.com/sanghun_0" target='_blank'><img height="30" src="https://i.imgur.com/LhVnkTO.png"
+    <a href="mailto:mun.mimi925@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
 </div>
 
