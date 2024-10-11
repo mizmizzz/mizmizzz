@@ -33,14 +33,14 @@
 ## <div width="25" height="25" />
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun2zz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizmizzz&layout=compact)
   
 </div>
 
 <div align="center">
 
   
-![hun2zz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun2zz&show_icons=true)
+![mizmizzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizmizzz&show_icons=true)
 </div>
 
 
