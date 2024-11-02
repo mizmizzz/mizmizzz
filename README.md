@@ -8,13 +8,13 @@
 ## Project
 | Service | Description | Group | Link |
 |:---:|:---:|:---:|:---:|
-| 문지은 웹 포트폴리오(ing) | 리액트로 제작한 진상훈 웹 포트폴리오 | 1인 제작 | [Web Link](https://mizmizzz.github.io/developer/) |
+| 문지은 웹 포트폴리오(ing) | 리액트로 제작한 문지은 웹 포트폴리오 | 1인 제작 | [Web Link](https://mizmizzz.github.io/developer/) |
 | 과팅 | 대학생들을 위한 소개팅 웹 어플리케이션 | 3on3 | [Web Link](https://gwating.com/) |
 | 소동 프로젝트 | 지친 사람들을 위한 익명의 소통 페이지 | 편히쉬조 | [Github Link](https://github.com/sodongProject) |
 
 
 ## Experience
-### - 2024
+### - 2024.03 ~ 2024.08
 - **중앙정보처리 학원 수료, <br>
 "과팅" 프로젝트로 수료 당시 최우수상 수상**
 
@@ -34,8 +34,8 @@
 
 ## Card
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hun2zz&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mizmizzz&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-readme-stats.vercel.app/api?username=hun2zz&cache_seconds=1800&show_icons=true&hide=stars&count_private=true&custom_title=hun2zz'ꜱ%20ɢɪᴛʜᴜʙ%20ꜱᴛᴀᴛ" />
+<img src="https://github-readme-stats.vercel.app/api?username=mizmizzz&cache_seconds=1800&show_icons=true&hide=stars&count_private=true&custom_title=mizmizzz'ꜱ%20ɢɪᴛʜᴜʙ%20ꜱᴛᴀᴛ" />
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=hun2zz&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="youngkwon02" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=mizmizzz&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="youngkwon02" />
