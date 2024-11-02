@@ -3,7 +3,7 @@
 > 안녕하세요. 소통에 최적화된 개발자, 문지은입니다<br>
 
 <!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" witdh="90" height="30" />](https://youngkwon.co.kr) -->
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="86" height="30" />](mailto:tkdgnsdldkdlel@naver.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="86" height="30" />](mailto:m_mimi@naver.com)
 
 ## Project
 | Service | Description | Group | Link |
